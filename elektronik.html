@@ -1,0 +1,43 @@
+<head>
+  <title>\\ elektronik \\</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+  <div class="outer">
+    <div class="logo"></div>
+    <h1 class="title">elektronik</h1>
+    <div class="subtitle">COGS interface for elektron support</div>
+    {{> serverlist}}
+  </div>
+</body>
+
+<template name="serverlist">
+  <ol class="serverlist">
+    {{#each servers}}
+      {{> server}}
+    {{/each}}
+  </ol>
+
+  {{#if selectedName}}
+    <div class="details">
+      <div class="name">{{selectedName}}</div>
+      <button class="logs">Gather SMF Logs</button>
+      <button class="dumps">Latest LH Dump</button>
+      {{serverStats}}
+    </div>
+  {{else}}
+    <div class="message">Click a server to select</div>
+  {{/if}}
+</template>
+
+<template name="server">
+  <li class="server {{selected}}">
+    <span class="type">CHE</span>
+    <span class="name">{{name}}</span>
+    <span class="IP">127.0.0.1</span>
+    <span class="status">Running</span>
+    <span class="qos">{{qos}}</span>
+  </li>
+</template>
