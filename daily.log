@@ -1,0 +1,376 @@
+
+TK2P-DDNCCHP02A	Connection Failure	9/18/15 10:39:31 PM	9/18/15 10:40:28 PM	1	3RDT-_000006:CHE:LHTT3RDT.exe:GBE_ReportSituation
+
+SY4P-DDNCDCS01A	Ping fail for 172.18.123.200: ICMP timeout	9/21/15 1:31:59 PM	9/21/15 1:41:24 PM	6	@SY4P-DDNCDCS01A->NmosPingFail
+
+NTCP-DDNCCHP02B	Watchdog event	9/21/15 2:36:42 PM	9/21/15 2:36:58 PM	1	XRDT-_000010:CHE:LHCPXRDT.exe:GBE_ReportSituation
+
+2015-09-21; 14:36:40; Critical; APIIngestServer - Lightstreamer: Disconnect -> OnFailure return - Server Failure. error code is 10; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT; 7788; 8048; 03804943;
+2015-09-21; 14:36:40; Harmless; API Ingest: INFO: Request close from venue DLL; D:\ThomsonReuters\Venues\CanPX\APIIngest_cpx.exe; 5972; 8360; 03804944;
+2015-09-21; 14:36:40; Critical; APIIngestServer - Lost conection to Candeal server, now we need to try to connect to again!; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT; 7788; 8048; 03804945;
+2015-09-21; 14:36:40; Harmless; CommunicationObject: Sub Id 0 is closed; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT.exe; 7788; 8048; 03804946;
+2015-09-21; 14:36:40; Critical; Connection Failure; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT; 7788; 8048; 03804947;
+2015-09-21; 14:36:40; Critical; CommunicationObject: Sub Id 0 has gone INACTIVE (); D:\ThomsonReuters\Venues\CanPX\LHCPXRDT; 7788; 8048; 03804948;
+
+2015-09-21; 14:36:42; Harmless; APIIngestServer - API server: CANPX: OpenConnection successfully!; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT.exe; 7788; 8048; 03804d8c;
+2015-09-21; 14:36:42; Harmless; APIIngestServer - Bootstrapping...; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT.exe; 7788; 8048; 03804d8d;
+2015-09-21; 14:36:42; Harmless; APIIngestServer - Start to subscribe realtime data!!; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT.exe; 7788; 8048; 03804d8e;
+2015-09-21; 14:36:42; Harmless; FMSAdapter : Processing FMS Job 20469851; D:\ThomsonReuters\Venues\MSRB\LHMSRRDT.exe; 8564; 9264; 03804d8f;
+2015-09-21; 14:36:42; Harmless; APIIngestServer - Start to publish realtime message!!; D:\ThomsonReuters\Venues\CanPX\LHCPXRDT.exe; 7788; 8048; 03804d90;
+2015-09-21; 14:36:42; Harmless; FMSAdapter : Processing FMS Job 20469853; D:\ThomsonReuters\Venues\MSRB\LHMSRRDT.exe; 8564; 9264; 03804d91;
+2015-09-21; 14:36:42; Harmless; FMSAdapter : Processing FMS Job 20469851; D:\ThomsonReuters\Venues\MSRB\LHMSRRDT.exe; 8564; 9264; 03804d92;
+2015-09-21; 14:36:42; Harmless; FMSAdapter : Processing FMS Job 20469855; D:\ThomsonReuters\Venues\MSRB\LHMSRRDT.exe; 8564; 9264; 03804d93;
+2015-09-21; 14:36:42; Clear   ; CommunicationObject: Sub Id 0 has gone ACTIVE (); D:\ThomsonReuters\Venues\CanPX\LHCPXRDT; 7788; 8048; 03804d94;
+
+NJ2P-DDNCCHE27B	GAP Trap [BZ2] - Count: 54 Message ID: 28942	9/21/15 4:52:14 PM	9/21/15 4:52:17 PM	1	tGen-_028942:CHE:GapStatGen.exe:GBE_ReportSituation
+
+UK2P-DDNMCHE15A	Normal Processing	9/21/15 6:01:27 PM	9/21/15 6:01:52 PM	1	XRDT-_000011:CHE:LHPEXRDT.exe:GBE_ReportSituation
+
+NJ3P-DDNCCHE33A	Connection Failure	9/21/15 6:50:30 PM	9/21/15 6:50:54 PM	1	VRDT-_000006:CHE:LHBOVRDT.exe:GBE_ReportSituation
+
+HTCP-DDNMFMS01B	Logical Drive P at 92% capacity	9/16/15 5:13:51 AM	9/21/15 8:54:10 PM	815	IDNCore:OS:HTC:FILESYSTEM_CAPACITY:HTCP-DDNMFMS01B	Rakshith chinivar
+
+TR1P-DDNCCHE01B	GAP Trap [PL1] - Count: 1 Message ID: 2	9/21/15 9:00:00 PM	9/21/15 9:00:07 PM	1	tGen-_000002:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NJ3P-DDNDEED01A	Venue data in suspect.##Ven:Tokyo Financial Exchange,Why:Missing LH .[SPSTIFL1,Expose:Y,Cat:Venue,SubCat:LHSPSLoss,DPoP:NJ3,Sev:Clr,Mkt:Close,Time:2015-09-21 21:38:54,PulseRAG:GGG,V:2	9/21/15 9:38:54 PM	9/21/15 9:39:03 PM	1	ESIR_090167:ServiceView:Tokyo Financial Exchange:GBE_ReportSituation
+
+CC2P-DDNCCHE06A	Unexpected value	9/22/15 12:52:46 PM	9/22/15 12:53:27 PM	1	URDT-_000004:CHE:LHICURDT.exe:GBE_ReportSituation
+
+CC2P-DDNCCHE01B	GAP Trap [CM1] - Count: 5 Message ID: 11909	9/22/15 1:15:58 PM	9/22/15 1:16:57 PM	1	tGen-_011909:CHE:GapStatGen.exe:GBE_ReportSituation
+
+LN1P-DDNCCHE13A	GAP Trap [TQ3] - Count: 9 Message ID: 16919	9/22/15 1:07:52 PM	9/22/15 1:09:47 PM	1	tGen-_016919:CHE:GapStatGen.exe:GBE_ReportSituation
+
+FF2P-DDNCCHE09A	Connection Failure	9/22/15 3:30:00 PM	9/22/15 3:30:41 PM	1	HRDT-_000006:CHE:LHXDHRDT.exe:GBE_ReportSituation
+
+LN2P-DDNCCHE05B	Either no longer in high activity or LT8 is now publishing	9/22/15 3:30:25 PM	9/22/15 3:55:36 PM	35	SMF:blank
+
+NJ3P-DDNCCHE33B	GAP Trap [BOV] - Count: 2 Message ID: 556	9/22/15 7:34:26 PM	9/22/15 7:34:56 PM	1	tGen-_000556:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NJ3P-DDNCCHE33B	GAP Trap [BOV] - Count: 2 Message ID: 556	9/22/15 7:34:26 PM	9/22/15 7:34:56 PM	1	tGen-_000556:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE01B	Connection Failure	9/23/15 1:31:31 PM	9/23/15 1:31:57 PM	1	1RDT-_000006:CHE:LHO01RDT.exe:GBE_ReportSituation	Nicholas Vieira
+
+DTCP-DDNMFMS01B	Excessive soft paging is occurring due to a lack of available memory (   2453504 bytes).	9/23/15 6:04:33 AM	9/23/15 2:26:30 PM	5	TMNT:N/A:N/A:TMW_LowAvailCausingSoftPaging:DTCP-DDNMFMS01B
+
+NJ3P-DDNCCHE33B	GAP Trap [BOV] - Count: 1 Message ID: 622	9/23/15 2:33:48 PM	9/23/15 2:33:55 PM	1	tGen-_000622:CHE:GapStatGen.exe:GBE_ReportSituation
+
+SG1P-DDNMCHE15B	CommunicationObject: Sub Id 0 has gone INACTIVE	9/23/15 3:30:34 PM	9/23/15 3:31:27 PM	1	1RDT-_065536:CHE:LHGW1RDT.exe:GBE_ReportSituation
+
+UK1P-DDNMCHE15A	Watchdog event	9/23/15 6:01:25 PM	9/23/15 6:01:41 PM	1	XRDT-_000010:CHE:LHPEXRDT.exe:GBE_ReportSituation
+
+NJ3P-DDNCCHE33A	Connection Failure	9/23/15 6:41:53 PM	9/23/15 6:42:53 PM	1	VRDT-_000006:CHE:LHBOVRDT.exe:GBE_ReportSituation
+
+NTCP-DDNCCHP03A	SCWatchdog : [MASTER,DUAL_LINK] SCW UDP link lost redundancy (DUAL_LINK => SINGLE_LINK) [EVENT:WDG_ERROR_SCW_SINGLE_LINK : Investigate any network connection issues on the SCW multicast UDP interfaces (by PING, or interfaces capture).]	9/24/15 1:26:30 PM	9/24/15 1:27:27 PM	1	blank:blank:blank:GBE_ReportSituation
+
+NJ2P-DDNCCHE27B	GAP Trap [BZ2] - Count: 46 Message ID: 29981	9/24/15 1:46:12 PM	9/24/15 1:46:15 PM	1	tGen-_029981:CHE:GapStatGen.exe:GBE_ReportSituation
+
+TK1P-DDNCDCS02B	msaEventWarningTrap: An event has been generated by the storage array. Recommended severity level (for filtering): warning  : Event type: 172, A vdisk was quarantined. (vdisk: vd01, SN: 00c0ff149f4b0000c94d275100000000)	9/24/15 3:52:50 PM	9/24/15 3:52:50 PM	2	2668
+
+SG2P-DDNCDCS01A	dropAlarmSet: # Event raise trap when dropped data is rising for a capture NIC	9/24/15 4:25:45 PM	9/24/15 4:25:45 PM	4	1Feed1
+
+UK2P-DDNCCHP02A	CommunicationObject: Sub Id 0 has gone ACTIVE ()	9/24/15 6:43:03 PM	9/24/15 6:43:34 PM	1	FRDT-_000006:CHE:LHCSFRDT.exe:GBE_ReportSituation
+
+2015-09-24; 18:42:12; Critical; Connection Failure; D:\ThomsonReuters\Venues\CSF\LHCSFRDT; 4464; 792; 0014646b;
+2015-09-24; 18:42:12; Critical; CommunicationObject: Sub Id 0 has gone INACTIVE (); D:\ThomsonReuters\Venues\CSF\LHCSFRDT; 4464; 792; 0014646c;
+2015-09-24; 18:42:12; Harmless; Persistence:  Beginning persistence cycle.; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 4460; 0014646d;
+2015-09-24; 18:42:12; Harmless; Persistence: Persist cycle completed, 0 added/updated, 0 dropped, 0 erred.; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 4460; 0014646e;
+2015-09-24; 18:42:12; Harmless; Persistence: Next persist cycle in 30 seconds.; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 4460; 0014646f;
+2015-09-24; 18:42:42; Harmless; Persistence:  Beginning persistence cycle.; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 4460; 00146470;
+2015-09-24; 18:42:42; Harmless; Persistence: Persist cycle completed, 0 added/updated, 0 dropped, 0 erred.; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 4460; 00146471;
+2015-09-24; 18:42:42; Harmless; Persistence: Next persist cycle in 30 seconds.; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 4460; 00146472;
+2015-09-24; 18:43:00; Warning ; Logs minutes summary begin:----------------------------------------------------; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 792; 00146473;
+2015-09-24; 18:43:00; Warning ; LH[UPALH], Publisher[CSF_PR2], Log[10.216.48.60:Channel is closed.]; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 792; 00146474;
+2015-09-24; 18:43:00; Warning ; LH[UPALH], Publisher[CSF_PR2], Log[Not Receive Heartbeat from:10.216.48.60]; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 792; 00146475;
+2015-09-24; 18:43:00; Warning ; Logs minutes summary end:------------------------------------------------------; D:\ThomsonReuters\Venues\CSF\LHCSFRDT.exe; 4464; 792; 00146476;
+2015-09-24; 18:43:03; Clear   ; CommunicationObject: Sub Id 0 has gone ACTIVE (); D:\ThomsonReuters\Venues\CSF\LHCSFRDT; 4464; 792; 00146477;
+
+NJ2P-DDNCCHE01A	GAP Trap [O01] - Count: 115 Message ID: 7434	9/24/15 7:10:30 PM	9/24/15 7:11:28 PM	1	tGen-_007434:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NJ3P-DDNCCHE28B	Watchdog event	9/24/15 7:41:39 PM	9/24/15 7:42:36 PM	1	5RDT-_000010:CHE:LHBA5RDT.exe:GBE_ReportSituation
+
+TR1P-DDNCCHE01A	GAP Trap [PL1] - Count: 1 Message ID: 221	9/24/15 9:00:00 PM	9/24/15 9:00:02 PM	1	tGen-_000221:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NJ2P-DDNCDAS01A		9/24/15 8:50:06 PM	9/24/15 9:32:06 PM	0	DDS_GEN_GEN_04_PROWNHndleLeak
+
+HK2P-DDNCCHE06A	SCWatchdog : [MASTER,DUAL_LINK] LIVE switch has occurred; Entity: LHHKFRDT ([L S S S] => [S L S S]) [EVENT:WDG_ERROR_ENTITY_LIVE_SWITCH : Investigate the cause of the entity switch.]	9/24/15 10:08:01 PM	9/24/15 10:08:17 PM	1	blank:blank:blank:GBE_ReportSituation
+
+TK2P-DDNCCHE07B	CommunicationObject: Sub Id 28 has gone ACTIVE (239.194.1.76:51076)	9/24/15 10:30:00 PM	9/24/15 10:30:52 PM	1	FRDT-_000006:CHE:LHTFFRDT.exe:GBE_ReportSituation
+
+CC2P-DDNCCHE04A	Unexpected value	9/24/15 10:38:33 PM	9/24/15 10:38:42 PM	1	FRDT-_000004:CHE:LHCMFRDT.exe:GBE_ReportSituation
+
+LN1P-DDNCCHE04B	[WatchDogService: STATE_CHANGE] current_state: ENTITY_LIVE, new_state: ENTITY_STANDBY	9/24/15 10:47:25 PM	9/24/15 10:47:25 PM	1	CHE:LHENLRDT.exe
+
+SY4P-DDNCDCS02A	Last 5 mins: SY4P-DDNCDCS02A sent 2 event(s)	9/25/15 2:51:49 PM	9/25/15 2:51:49 PM	1
+
+NJ3P-DDNCCHE10B	GAP Trap [NQ1] - Count: 4 Message ID: 2	9/25/15 2:57:21 PM	9/25/15 2:57:31 PM	1	tGen-_000002:CHE:GapStatGen.exe:GBE_ReportSituation
+
+TK2P-DDNCCHE06A	Connection Failure	9/25/15 2:33:01 PM	9/25/15 2:33:39 PM	4	DRDT-_000006:CHE:LHOSDRDT.exe:GBE_ReportSituation
+
+TK1P-DDNCCHE06A	Connection Failure	9/25/15 2:33:01 PM	9/25/15 2:33:31 PM	4	DRDT-_000006:CHE:LHOSDRDT.exe:GBE_ReportSituation
+
+D:\ThomsonReuters\SMF\log\smf log files.20150921_235959.txt:81470:2015-09-21; 16:52:14; Harmless; Gap message from LH:
+New gap from 3415146 to 3415201 (54 msgs) on LineID:BZ2 SubID:6; D:\ThomsonReuters\che\GapStatGen.exe; 5144; 5196; 00be
+5e65;
+D:\ThomsonReuters\SMF\log\smf log files.20150921_235959.txt:81605:2015-09-21; 16:54:43; Harmless; Gap message from LH:
+New gap from 3486596 to 3486638 (41 msgs) on LineID:BZ2 SubID:6; D:\ThomsonReuters\che\GapStatGen.exe; 5144; 5196; 00be
+5eec;
+
+NJ2P-DDNCCHE28B	GAP Trap [BA6] - Count: 1 Message ID: 51390	15:04 9/28/15	15:04 9/28/15	1	tGen-_051390:CHE:GapStatGen.exe:GBE_ReportSituation
+
+PLNP-DDNNARB10B	Frame loss just happened on some multicast group(s) on arbitration3 (asmtpframearbitrator::arbitration3)	19:57 9/28/15	19:58 9/28/15	1	ARBS_503022:ArbitrationServer:blank:GBE_ReportSituation
+
+LN1P-DDNCCHE01B	SCWatchdog : [SLAVE,DUAL_LINK] Lost connection with partner SCW (ID: SCW_IDENT_A, ARB: MASTER) [EVENT:WDG_ERROR_SCW_PARTNER_TIMEOUT : (1) Investigate the actual status of this partner SCW, shutdown or failed; (2) Investigate if there is network communicat	22:18 9/28/15	22:18 9/28/15	1	blank:blank:blank:GBE_ReportSituation
+
+TK1P-DDNCCHE06B	Connection Failure	22:20 9/28/15	22:21 9/28/15	7	DRDT-_000006:CHE:LHOSDRDT.exe:GBE_ReportSituation
+
+PLNP-DDNEDCS04A	healthAlarmSet: # Event raise trap when DCS is unhealthy	9/30/15 1:42:11 PM	9/30/15 1:42:11 PM	4	DCS
+
+MS2P-DDNDEED01A	Netcool Storm Protection has detected that device MS2P-DDNDEED01A has more than 250 unique events. All non critical events from device MS2P-DDNDEED01A have been deleted.	21:31 9/28/15	21:34 9/28/15	2	Non critical events
+
+HK2P-DDNCCHE06A	GAP Trap [HKF] - Count: 121 Message ID: 2	22:35 9/28/15	22:35 9/28/15	1	tGen-_000002:CHE:GapStatGen.exe:GBE_ReportSituation
+
+LN1P-DDNCCHE13A	GAP Trap [TQ0] - Count: 5 Message ID: 18999	13:42 9/29/15	13:43 9/29/15	1	tGen-_018999:CHE:GapStatGen.exe:GBE_ReportSituation
+
+SG1P-DDNMIRS01B	PPDS Server is unavailable : DTCPPDS	06:30 9/29/15	13:30 9/29/15	2	ISAT_005013:DTCPPDS:DTCPPDS:GBE_ReportSituation
+
+TK2P-DDNCCHE06B	Connection Failure	14:33 9/29/15	14:34 9/29/15	4	CRDT-_000006:CHE:LHOSCRDT.exe:GBE_ReportSituation
+
+SY4P-DDNCDCS02A	Last 5 mins: SY4P-DDNCDCS02A sent 1 event(s)	14:41 9/29/15	14:41 9/29/15	1
+
+HK2P-DDNCCH701B-VC1	Link Up  ( ifEntry.1008 )	14:45 9/29/15	14:50 9/29/15	7	ifEntry.1008
+
+CC2P-DDNCCHE01A	CommunicationObject: Sub Id 18 has gone INACTIVE	15:03 9/29/15	15:08 9/29/15	3	2RDT-_065554:CHE:LHCM2RDT.exe:GBE_ReportSituation
+
+CC2P-DDNCCHE03A	Connection Failure	18:19 9/29/15	18:20 9/29/15	1	1RDT-_000006:CHE:LHCB1RDT.exe:GBE_ReportSituation
+
+CC2P-DDNCCHE03A	Connection Failure	18:19 9/29/15	18:20 9/29/15	1	1RDT-_000006:CHE:LHCB1RDT.exe:GBE_ReportSituation
+
+HK3P-DDNCCHE04B	[RunTimeEnvironment: STATE_CHANGE] Finished Notifying state change	11:12 9/30/15	11:13 9/30/15	1	IRDT-_000000:CHE:LHCFIRDT.exe:GBE_ReportSituation
+
+PLNP-DDNEDCS04A	healthAlarmSet: # Event raise trap when DCS is unhealthy	9/30/15 1:42:11 PM	9/30/15 1:42:11 PM	4	DCS
+
+CC1P-DDNDIDS01B	Available memory is Low	9/20/15 5:34:43 AM	9/30/15 7:35:40 PM	16	PMID_010010:SMF:blank:GBE_ReportSituation
+
+LN2P-DDNCCHE16A	Server has started.	9/30/15 8:23:50 PM	9/30/15 8:23:50 PM	1	SMF:SMFD:GBE_StartSituation
+
+PLNP-DDNEDCS04B	msaEventWarningTrap: An event has been generated by the storage array. Recommended severity level (for filtering): warning  : Event type: 484, There is no dedicated or global spare that can be used for reconstructing this vdisk. If a disk in the vdisk fai	10/2/15 1:25:15 AM	10/2/15 1:25:15 AM	2	1355
+
+CC1P-DDNCCHE03B	SCWatchdog : [SLAVE,DUAL_LINK] Entity:LHCB1RDT late heartbeat in ARB_UNDEFINED. [EVENT:WDG_ERROR_ENTITY_LATE_HEARTBEAT : This indicates there is some issue happened for the entity, investigate why this entity didn''t reply heartbeat in time.]	10/2/15 1:41:15 PM	10/2/15 1:41:42 PM	13	blank:blank:blank:GBE_ReportSituation
+
+TK2P-DDNCCHE06B	Connection Failure	10/2/15 2:33:00 PM	10/2/15 2:34:08 PM	2	DRDT-_000006:CHE:LHOSDRDT.exe:GBE_ReportSituation
+
+LN2P-DDNCDCS02C	msaEventErrorTrap: An event has been generated by the storage array. Recommended severity level (for filtering): error : Event type: 21, A verify-vdisk job failed. Command failed. (error code: 1) (number of errors found: 13687295) (vdisk: vd01, SN: 00c0ff	10/2/15 3:28:40 PM	10/2/15 3:28:40 PM	2	2419
+
+NJ2P-DDNCCHE15A	GAP Trap [O15] - Count: 33 Message ID: 1717	10/2/15 4:32:02 PM	10/2/15 4:32:54 PM	1	tGen-_001717:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NTCP-DDNBADS15A	Client disconnect from host "ntcp-ddnmeed07a" at address 159.44.46.67 by remote connection reset.	9/28/15 1:27:38 PM	10/2/15 4:52:11 PM	2	blank:blank
+
+NJ2P-DDNCCHE59A	GAP Trap [O39] - Count: 4 Message ID: 8771	10/2/15 4:52:02 PM	10/2/15 4:52:58 PM	1	tGen-_008771:CHE:GapStatGen.exe:GBE_ReportSituation
+
+SY4P-DDNCDCS01A	nsNotifyShutdown: An indication that the agent is in the process of being shut down.	10/2/15 4:55:40 PM	10/2/15 4:55:40 PM	4
+
+SY4P-DDNCDCS01A	healthAlarmSet: # Event raise trap when DCS is unhealthy	10/2/15 5:01:47 PM	10/2/15 5:01:47 PM	4
+
+NTCP-DDNCCHP02B	Connection Failure	10/2/15 7:13:21 PM	10/2/15 7:13:59 PM	1	XRDT-_000006:CHE:LHCPXRDT.exe:GBE_ReportSituation
+
+TK2P-DDNCCHE06A	Unexpected value	10/3/15 3:34:23 PM	10/3/15 3:34:55 PM	1	DRDT-_000004:CHE:LHOSDRDT.exe:GBE_ReportSituation
+
+OCPP-DDNNDCS01A	noCarrierAlarmSet: # Event raise trap when no signal is detected for a capture NIC	10/3/15 6:28:02 PM	10/3/15 6:28:02 PM	4	1Feed1
+
+FF1P-DDNCCHE08B	Connection Failure	10/3/15 8:42:26 PM	10/3/15 8:43:20 PM	12	HRDT-_000006:CHE:LHSCHRDT.exe:GBE_ReportSituation
+
+UK1P-DDNMCHE15B	CommunicationObject: Sub Id 1 has gone INACTIVE	13:04 10/4/15	13:05 10/4/15	1	9RDT-_065537:CHE:LHP19RDT.exe:GBE_ReportSituation
+
+NJ3P-DDNCCHE61B	cpqHe3FltTolFanInserted: A Fault Tolerant Fan has been inserted into the specified chassis and fan location.	18:25:49 | 4 Oct 15 	18:25:49 | 4 Oct 15 	2	0
+
+CC2P-DDNCCHE06A	Unexpected value	10/4/15 9:00:02 PM	10/4/15 9:00:49 PM	1	ERDT-_000004:CHE:LHICERDT.exe:GBE_ReportSituation
+
+CC1P-DDNCCHE03B	lhcb1rdt.exe is no longer running	10/5/15 12:45:17 PM	10/5/15 12:45:44 PM	1	cMon-_000004:CHE:CritProcMon.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE28B	GAP Trap [BA1] - Count: 7 Message ID: 54452	10/5/15 2:41:01 PM	10/5/15 2:41:35 PM	1	tGen-_054452:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NTCP-DDNCCHP04B	Connection Failure	10/5/15 4:31:20 PM	10/5/15 4:31:42 PM	1	DRDT-_000006:CHE:LHCDDRDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCH701A-OA1	cpqRackServerBladeRemoved2: The server blade in position 2 has been removed from the enclosure	20:49:39 | 5 Oct 15 	20:49:39 | 5 Oct 15 	2	UnnamedRack2
+
+TK2P-DDNCCHE06A	Either no longer in high activity or OSD is now publishing	14:33:34 | 8 Oct 15 	14:34:06 | 8 Oct 15 	1	PMID_000100:SMF:blank:GBE_ReportSituation
+
+NTCP-DDNCCHP04B	SCWatchdog : [MASTER,DUAL_LINK] SCW UDP link lost redundancy (DUAL_LINK => SINGLE_LINK) [EVENT:WDG_ERROR_SCW_SINGLE_LINK : Investigate any network connection issues on the SCW multicast UDP interfaces (by PING, or interfaces capture).]	10/8/15 7:41:38 PM	10/8/15 7:41:44 PM	1	blank:blank:blank:GBE_ReportSituation
+
+FF1P-DDNCCHE04B	[RunTimeEnvironment: STATE_CHANGE] Finished Notifying state change	10/8/15 9:20:06 PM	10/8/15 9:20:06 PM	1	CHE:LHCFCRDT.exe
+
+NJ2P-DDNDEED01A	DPoP infra in suspect.##ADH:nj2p-ddndsrc13b,Why:ADH DDN connection down,Expose:N,Cat:DPoP,SubCat:ADHDDNDown,DPoP:NJ2,Sev:Maj,Time:2015-10-09 11:58:25,PulseRAG:GGG,V:2	11:58:25 | 9 Oct 15 	13:58:28 | 9 Oct 15 	3	ESIR_533340:ServiceView:blank:GBE_ReportSituation
+NJ2P-DDNDEED01A	DPoP infra in suspect.##ADH:nj2p-ddndsrc13b,Why:ADH Process down,Expose:N,Cat:DPoP,SubCat:ADHProcDown,DPoP:NJ2,Sev:Maj,Time:2015-10-09 11:58:25,PulseRAG:GGG,V:2	11:58:25 | 9 Oct 15 	13:58:28 | 9 Oct 15 	3	ESIR_523339:ServiceView:blank:GBE_ReportSituation
+
+TK2P-DDNCCHE06B	Connection Failure	14:33:00 | 9 Oct 15 	14:33:24 | 9 Oct 15 	4	CRDT-_000006:CHE:LHOSCRDT.exe:GBE_ReportSituation
+
+TP3P-DDNCDCS01A	dropAlarmSet: # Event raise trap when dropped data is rising for a capture NIC	15:10:42 | 9 Oct 15 	15:10:42 | 9 Oct 15 	2	2Feed2
+
+TK2P-DDNCCHE06A	Unexpected value	1510 - 10 Oct	1511 - 10 Oct	1	DRDT-_000004:CHE:LHOSDRDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE30A	Sync Pulse Missed Threshold Exceeded	1729 - 10 Oct	1730 - 10 Oct	1	4RDT-_000006:CHE:LHO24RDT.exe:GBE_ReportSituation
+
+MS1P-DDNDEED01A	DPoP infra in suspect.##ADH:ms1p-ddnbadh01a,Why:ADH Connection to primary DPoP down,Expose:Y,Cat:DPoP,SubCat:ADHPriDPoPConnDown,DPoP:MS1,Sev:Clr,Time:2015-10-10 17:59:40,PulseRAG:RRG,V:2	1759 - 10 Oct	1759 - 10 Oct	1	ESIR_554504:ServiceView:blank:GBE_ReportSituation
+
+LN1P-DDNCCHE27B	cpqSm2SelfTestError: Remote Insight/ Integrated Lights-Out Self Test Error. The Remote Insight/ Integrated Lights-Out firmware has detected a Remote Insight self test error.	1309 - 11 Oct	1309 - 11 Oct	1
+
+UK2P-DDNMGDH01A	CPU core 5 is > 99% for 10 seconds.	1626 - 11 Oct	1626 - 11 Oct	1	OSSM_604005:SMF:OSStatsMonitor:GBE_ReportSituation
+
+CC1P-DDNCCHE04B	Unexpected value	1716 - 11 Oct	1716 - 11 Oct	1	FRDT-_000004:CHE:LHCMFRDT.exe:GBE_ReportSituation
+
+HDCP-DDNMVAH02A	Can''t establish connection 10.110.17.12 connection timeout. (rsslconnector::rsslconnector)	1117 - 11 Oct	1803 - 11 Oct	204	EVAI_500004:VAH:blank:GBE_ReportSituation
+
+NJ2P-DDNCCHE36B	Connection Failure	13:31:29 | 13 Oct 15 	13:32:06 | 13 Oct 15 	1	SRDT-_000006:CHE:LH09SRDT.exe:GBE_ReportSituation
+
+SY4P-DDNCDCS01A	idleAlarmSet: # Event raise trap when no activity is detected for a capture NIC	14:13:44 | 13 Oct 15 	14:13:44 | 13 Oct 15 	4	1Feed1
+
+NJ2P-DDNCCHE38B	Connection Failure	14:42:35 | 13 Oct 15 	14:43:08 | 13 Oct 15 	1	SRDT-_000006:CHE:LH22SRDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE08A	Connection Failure	12:47:19 | 14 Oct 15 	12:47:19 | 14 Oct 15 	1	CHE:LHAALRDT.exe
+
+NJ2P-DDNCCHE58A	Feed: MFDS1F line: PrimaryGroup down.	12:54:14 | 14 Oct 15 	12:55:05 | 14 Oct 15 	1	cGen-_000000:CHE:/ThomsonReuters/che/StatRicGen:GBE_ReportSituation
+
+CC1P-DDNCCHE04B	Watchdog event	13:00:20 | 14 Oct 15 	13:00:45 | 14 Oct 15 	1	ORDT-_000010:CHE:LHCMORDT.exe:GBE_ReportSituation
+
+CC2P-DDNCCHE01B	GAP Trap [CM1] - Count: 2 Message ID: 15096	1326 - 14 Oct	1326 - 14 Oct	1	tGen-_015096:CHE:GapStatGen.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE29A	SCWatchdog : [MASTER,DUAL_LINK] LIVE switch has occurred; Entity: LHNL4RDT ([L S S S] => [S S S L]) [EVENT:WDG_ERROR_ENTITY_LIVE_SWITCH : Investigate the cause of the entity switch.]	1403 - 14 Oct	1404 - 14 Oct	1	blank:blank:blank:GBE_ReportSituation
+
+NJ2P-DDNCCHE27A	Watchdog event	10/14/15 2:57:43 PM	10/14/15 2:58:32 PM	1	4RDT-_000010:CHE:LHBZ4RDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE16A	Watchdog event	10/14/15 2:58:08 PM	10/14/15 2:59:06 PM	1	8RDT-_000010:CHE:LHO18RDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE27A	Connection Failure	10/14/15 7:13:32 PM	10/14/15 7:14:32 PM	1	1RDT-_000006:CHE:LHBZ1RDT.exe:GBE_ReportSituation
+
+NTCP-DDNCCHE01A	Connection Failure	10/14/15 8:17:00 PM	10/14/15 8:17:32 PM	1	2RDT-_000006:CHE:LHIX2RDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE58B	Normal Processing	10/15/15 1:20:15 PM	10/15/15 1:20:25 PM	1	/MTE-_000012:CHE:/reuters/Venues/MFDS/MTE/MTE:GBE_ReportSituation
+
+UK2P-DDNMADS02A	Physical drive failure, Port=1I Box=1 Bay=1	10/15/15 1:01:44 PM	10/15/15 1:01:44 PM	1
+
+NJ2P-DDNCCHE25B	Connection Failure	10/15/15 3:49:05 PM	10/15/15 3:49:55 PM	1	ERDT-_000006:CHE:LHCFERDT.exe:GBE_ReportSituation
+
+NTCP-DDNCCHE01A	SCWatchdog : [MASTER,DUAL_LINK] LIVE switch has occurred; Entity: LHIX2RDT ([L S S S] => [S S S L]) [EVENT:WDG_ERROR_ENTITY_LIVE_SWITCH : Investigate the cause of the entity switch.]	10/15/15 4:55:00 PM	10/15/15 4:55:34 PM	1	blank:blank:blank:GBE_ReportSituation
+
+UK1P-DDNCCHE04A	SGC has detected a missing heartbeat from this endpoint.	10/15/15 7:55:16 PM	10/15/15 7:55:34 PM	2	SGCOBF001:SGC:blank:GBE_ReportSituation
+
+DTCP-DDNCCHE04A	Watchdog event	10/15/15 6:48:11 PM	10/15/15 7:57:59 PM	2	NRDT-_000010:CHE:LHMANRDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE38A	Connection Failure	14:20:35 16 Oct 2015	14:21:21 16 Oct 2015	1	SRDT-_000006:CHE:LH20SRDT.exe:GBE_ReportSituation
+
+NJ3P-DDNCCHE27A	Normal Processing	16:27:21 16 Oct 2015	16:27:53 16 Oct 2015	1	6RDT-_000011:CHE:LHBZ6RDT.exe:GBE_ReportSituation
+
+NJ3P-DDNCCHE27B	lhbz6rdt.exe is no longer running	16:27:27 16 Oct 2015	16:28:26 16 Oct 2015	1	cMon-_000001:CHE:CritProcMon.exe:GBE_ReportSituation
+
+SG1P-DDNCCHE01B	CommunicationObject: Sub Id 0 has gone ACTIVE ()	13:29:58 19 Oct 2015	13:30:13 19 Oct 2015	1	2RDT-_000006:CHE:LHNH2RDT.exe:GBE_ReportSituation
+
+SY3P-DDNCCHE01B	SCWatchdog : [SLAVE,DUAL_LINK] Partner SCW (ID: SCW_IDENT_C, ARB: SLAVE) has timed out - zeroing state [EVENT:WDG_ERROR_SCW_PARTNER_TIMEOUT : (1) Investigate the actual status of this partner SCW, shutdown or failed; (2) Investigate if there is network co	13:52:51 19 Oct 2015	13:53:30 19 Oct 2015	1	blank:blank:blank:GBE_ReportSituation
+
+TDN CVBOE2 Options 1345GMT
+
+IM01405900
+
+NJ2P-DDNCCHE27B	Connection Failure	14:01:17 19 Oct 2015	14:02:01 19 Oct 2015	1	4RDT-_000006:CHE:LHBZ4RDT.exe:GBE_ReportSituation
+
+CC2P-DDNCCH701B-VC2	Link Down  ( ifEntry.1005 )	14:26:27 19 Oct 2015	14:26:27 19 Oct 2015	2	ifEntry.1005
+
+LN1P-DDNDEED01A	Venue data in suspect.##Ven:Chi-X Australia,Why:LH Live-Live on .[SPSECAL1 .[SPSECAL2,Expose:N,Cat:Venue,SubCat:LHLiveLive,DPoP:LN1,Sev:Maj,Mkt:Close,Time:2015-10-19 14:31:05,PulseRAG:GGG,V:2	14:31:04 19 Oct 2015	14:31:08 19 Oct 2015	1	ESIR_131507:ServiceView:Chi-X Australia:GBE_ReportSituation
+
+NJ3P-DDNDEED01A	Venue data in suspect.##Ven:ASX,Why:LH Live-Live on .[SPSASXL1 .[SPSASXL2,Expose:N,Cat:Venue,SubCat:LHLiveLive,DPoP:NJ3,Sev:Maj,Mkt:Close,Time:2015-10-19 14:40:29,PulseRAG:GGG,V:2	14:40:29 19 Oct 2015	14:40:30 19 Oct 2015	1	ESIR_131882:ServiceView:ASX:GBE_ReportSituation
+
+TR1P-DDNDEED01A	Venue data in suspect.##Ven:DirectEdge EDGX,Why:Missing LH .[SPSDX1L1 .[SPSDX1L2 .[SPSDX2L1 .[SPSDX2L2 .[SPSDX3L1 .[SPSDX3L2 .[SPSDX4L1 .[SPSDX4L2 ...,Expose:Y,Cat:Venue,SubCat:LHSPSLoss,DPoP:TR1,Sev:Maj,Mkt:Close,Time:2015-10-19 00:00:00,PulseRAG:GGG,V:2	00:00:00 19 Oct 2015	15:00:41 19 Oct 2015	1	ESIR_092019:ServiceView:DirectEdge EDGX:GBE_ReportSituation
+
+NJ2P-DDNCCHE13B	Connection Failure	14:34:06 19 Oct 2015	14:34:28 19 Oct 2015	1	0RDT-_000006:CHE:LHO10RDT.exe:GBE_ReportSituation		IM01406001	 Abish Carvajal
+
+SY4P-DDNCCHE01A	Service is stopping.	15:06:06 19 Oct 2015	15:06:06 19 Oct 2015	1	SMF:SMFD:GBE_StopSituation
+
+NJ2P-DDNCCHE29B	Normal Processing	15:27:23 19 Oct 2015	15:27:42 19 Oct 2015	1	4RDT-_000011:CHE:LHNL4RDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE05B	Connection Failure	17:52:04 19 Oct 2015	17:52:04 19 Oct 2015	1	CHE:LHIT4RDT.exe
+
+FF1P-DDNCCHE08B	SCWatchdog : Consumer is dead, command cannot be sent	09:03:15 19 Oct 2015	22:33:27 19 Oct 2015	1	blank:blank:blank:GBE_ReportSituation
+
+LN1P-DDNCCHE28A	Connection Failure	22:55:02 19 Oct 2015	22:57:20 19 Oct 2015	3	LRDT-_000006:CHE:LHICLRDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE30B	Connection Failure	14:45:03 20 Oct 2015	14:46:03 20 Oct 2015	1	4RDT-_000006:CHE:LHO24RDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCDAS01A	DDS_GEN_GEN_04_PROWNHndleLeak ON Primary:NJ2P-DDNCDAS01A:NT ON svchost (ID_Process=436 Process_Name=svchost Handle_Count=2148 )	13:59:18 20 Oct 2015	15:04:19 20 Oct 2015	1	DDS_GEN_GEN_04_PROWNHndleLeak
+
+NJ2P-DDNCCHE42B	Connection Failure	14:45:03 20 Oct 2015	14:45:39 20 Oct 2015	1	2RDT-_000006:CHE:LHO32RDT.exe:GBE_ReportSituation
+
+NJ2P-DDNCCHE43A	Connection Failure	14:45:03 20 Oct 2015	14:45:53 20 Oct 2015	1	6RDT-_000006:CHE:LHO36RDT.exe:GBE_ReportSituation
+
+TK1P-DDNCDCS01C	msaEventWarningTrap: An event has been generated by the storage array. Recommended severity level (for filtering): warning  : Event type: 58, An error was reported by a disk drive. (disk: channel: 0, ID: 12, SN: KPV3HRBF, enclosure: 1, slot: 13) (Key,Code	16:30:02 20 Oct 2015	16:30:02 20 Oct 2015	2	2771				
+
+NJ3P-DDNCCHE33B	Connection Failure	18:34:14 20 Oct 2015	18:34:38 20 Oct 2015	1	VRDT-_000006:CHE:LHBOVRDT.exe:GBE_ReportSituation				
+
+2015-10-20; 18:43:17; Warning ; Closing Connection to IP:200.19.49.23-TCP:40000; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3107; 
+2015-10-20; 18:43:17; Harmless; Last connection succeeded, waiting 15 seconds; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3108; 
+2015-10-20; 18:43:20; Harmless; BOV: Ric BRFS3W60.SA/MP on subid 14 with sequence number [0,1679565] left group (56-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c3109; 
+2015-10-20; 18:43:20; Harmless; BOV: Ric BRFS3W60.SA/MBP on subid 14 with sequence number [0,1679565] left group (56-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c310a; 
+2015-10-20; 18:43:20; Harmless; BOV: Ric BRFS3W60.SA/MBO on subid 14 with sequence number [0,1679565] left group (56-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c310b; 
+2015-10-20; 18:43:21; Harmless; BOV: Ric BRIV4.SA/MP on subid 8 with sequence number [0,5390205] left group (68-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c310c; 
+2015-10-20; 18:43:21; Harmless; BOV: Ric BRIV4.SA/MBP on subid 8 with sequence number [0,5390205] left group (68-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c310d; 
+2015-10-20; 18:43:21; Harmless; BOV: Ric BRIV4.SA/MBO on subid 8 with sequence number [0,5390205] left group (68-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c310e; 
+2015-10-20; 18:43:29; Harmless; Persistence: Persist cycle completed, 3900 added/updated, 0 dropped, 0 erred.; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7456; 000c310f; 
+2015-10-20; 18:43:29; Harmless; Persistence: Next persist cycle in 30 seconds.; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7456; 000c3110; 
+2015-10-20; 18:43:32; Harmless; CommunicationObject: Sub Id 72 is open; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3111; 
+2015-10-20; 18:43:32; Harmless; Attempting Connect to IP:200.19.49.23-TCP:40000, try #1/1; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3112; 
+2015-10-20; 18:43:33; Harmless; 8=FIX.4.49=7335=A34=149=TTHR004152=20151020-18:43:34.00056=BVMF98=0108=30141=Y10=081; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3113; 
+2015-10-20; 18:43:33; Harmless; Sent logon request; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3114; 
+2015-10-20; 18:43:33; Harmless; Connected to IP:200.19.49.23-TCP:40000; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3115; 
+2015-10-20; 18:43:33; Harmless; CommunicationObject: Sub Id 72 is closed; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3116; 
+2015-10-20; 18:43:33; Warning ; Closing Connection to IP:200.19.49.23-TCP:40000; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3117; 
+2015-10-20; 18:43:33; Harmless; Last connection succeeded, waiting 15 seconds; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3118; 
+2015-10-20; 18:43:35; Harmless; BOV: Ric WUNI34F.SA/MP on subid 12 with sequence number [0,9577892] joined group (2R-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c3119; 
+2015-10-20; 18:43:35; Harmless; BOV: Ric WUNI34F.SA/MBP on subid 12 with sequence number [0,9577892] joined group (2R-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c311a; 
+2015-10-20; 18:43:35; Harmless; BOV: Ric WUNI34F.SA/MBO on subid 12 with sequence number [0,9577892] joined group (2R-BVMF); D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 6820; 000c311b; 
+2015-10-20; 18:43:49; Harmless; CommunicationObject: Sub Id 72 is open; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c311c; 
+2015-10-20; 18:43:49; Harmless; Attempting Connect to IP:200.19.49.23-TCP:40000, try #1/1; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c311d; 
+2015-10-20; 18:43:49; Harmless; 8=FIX.4.49=7335=A34=149=TTHR004152=20151020-18:43:50.00056=BVMF98=0108=30141=Y10=079; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c311e; 
+2015-10-20; 18:43:49; Harmless; Sent logon request; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c311f; 
+2015-10-20; 18:43:49; Harmless; Connected to IP:200.19.49.23-TCP:40000; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3120; 
+2015-10-20; 18:43:49; Harmless; CommunicationObject: Sub Id 72 is closed; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3121; 
+2015-10-20; 18:43:49; Warning ; Closing Connection to IP:200.19.49.23-TCP:40000; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3122; 
+2015-10-20; 18:43:49; Harmless; Last connection succeeded, waiting 15 seconds; D:\ThomsonReuters\Venues\BOVESPA\LHBOVRDT.exe; 1060; 7464; 000c3123; 
+
+200.19.49.23:40000
+177.54.210.23:40000
+
+NJ2P-DDNCCHE58B	Feed: MFDS1F line: PrimaryGroup down.	20:07:20 20 Oct 2015	20:07:28 20 Oct 2015	1	cGen-_000000:CHE:/ThomsonReuters/che/StatRicGen:GBE_ReportSituation				
+
+2015-10-17; 08:04:16; Warning ; {WDG : [SLAVE,DUAL_LINK] Lost connection with partner SCW (ID: SCW_IDENT_C, ARB: MASTER)[EVENT:WDG_ERROR_SCW_PARTNER_TIMEOUT : (1) Investigate the actual status of this partner SCW,  shutdown or failed; (2) Investigate if there is network communication issue between partners (if this event occurs across multiple hosts, it can potentially imply a network communication issue); (3) ensure the remaining SCW instances will select the most appropriate host to continue providing LIVE service.]}; ApplicationName; 6560; 5204; 00040a83; 
+2015-10-17; 08:04:17; Warning ; {WDG : [SLAVE,DUAL_LINK] Lost connection with partner SCW (ID: SCW_IDENT_D, ARB: SLAVE)[EVENT:WDG_ERROR_SCW_PARTNER_TIMEOUT : (1) Investigate the actual status of this partner SCW,  shutdown or failed; (2) Investigate if there is network communication issue between partners (if this event occurs across multiple hosts, it can potentially imply a network communication issue); (3) ensure the remaining SCW instances will select the most appropriate host to continue providing LIVE service.]}; ApplicationName; 6560; 5204; 00040a84; 
+2015-10-17; 08:04:17; Warning ; {WDG : [MASTER,DUAL_LINK] LIVE switch has occurred; Entity: VAH ([S|S|L|S] => [S|L])[EVENT:WDG_ERROR_ENTITY_LIVE_SWITCH : Investigate the cause of the entity switch.]}; ApplicationName; 6560; 5204; 00040a85; 
+2015-10-17; 08:04:29; Warning ; WDG : [MASTER,DUAL_LINK] Conflicting MASTER states with SCW_IDENT_C[EVENT:WDG_ERROR_SCW_CONFLICT_MASTER : The SCWs will automatically select which node should remain MASTER via predisposition logic. If this error continues, it may indicate (1) mis-configuration of SCW SYNC multicast settings, or (2) unmatched configuration value of watchdog.partner.heartbeat_interval and watchdog.partner.heartbeat_timeout among boxes, or (3) network issue of SIMPLEX communication.]; ApplicationName; 6560; 5204; 00040a86; 
+2015-10-17; 08:33:48; Warning ; Error: Failed to get the item container. (chainservice::chainservice11); WinLauncher; 4632; 6748; 00040a87; 
+
+TK1P-DDNCCHE06B	Connection Failure	14:33:01 21 Oct 2015	14:34:15 21 Oct 2015	2	DRDT-_000006:CHE:LHOSDRDT.exe:GBE_ReportSituation				
+
+FF2P-DDNCCHE09A	Connection Failure	15:30:03 21 Oct 2015	15:30:45 21 Oct 2015	1	HRDT-_000006:CHE:LHXDHRDT.exe:GBE_ReportSituation				
+
+SY4P-DDNDADS02B	cpqDa6LogDrvStatusChange: Logical Drive Status Change.Slot 0 recovering ( 5 )	15:49:15 21 Oct 2015	15:49:15 21 Oct 2015	2	Slot 011				
+NJ2P-DDNCCHE38A	Connection Failure	17:37:40 21 Oct 2015	17:38:28 21 Oct 2015	1	SRDT-_000006:CHE:LH20SRDT.exe:GBE_ReportSituation				
+
+If you review SIR alarms from SY3/SY4 you will see the following (or should): 2015-10-21; 15:09:18; Critical; Venue data in suspect.##Ven:Eikon News Headlines (ASIA distribution),Why:Missing EFX .[SPSEFXSG101RE SubSPS,Expose:N,Cat:Dist,SubCat:EFXSubSPSLoss,DPoP:SY3,Sev:Crit,DistReg:ASIA,Mkt:Open,Time:2015-10-21 15:09:18,PulseRAG:RRG,V:2; SIRApp; 5688; 6648; 0001a69e; 
+17:57:12
+this alarmed between 13:30 - 15:30 and indicates that we saw data loss for this multicast group / source combination on DDNA ... since DDNB is completely down this caused actual data loss 
+17:57:38
+can you ensure an IM is raised and that we track down what exactly happened?  SY3/SY4 were the only sites impacted so have to assume something related to the DDNA PE router caused this 
+17:57:54
+159.44.128.128 - 232.2.3.246 
+
+DTCP-DDNDEED01A	Venue data in suspect.##Ven:Ice Futures US,Why:LH Feed down on .[SPSICEL1 .[SPSICEL2,Expose:Y,Cat:Venue,SubCat:LHFeedDown,DPoP:DTC,Sev:Crit,Mkt:Open,Time:2015-10-20 23:06:05,PulseRAG:RGG,V:2	23:06:05 20 Oct 2015	19:06:40 21 Oct 2015	1	ESIR_101260:ServiceView:Ice Futures US:GBE_ReportSituation				
+
+HK3P-DDNCCHE05B	Connection Failure	20:00:01 21 Oct 2015	20:00:52 21 Oct 2015	1	ERDT-_000006:CHE:LHSSERDT.exe:GBE_ReportSituation				
+
+DTCP-DDNDEED01A	Venue data in suspect.##Ven:Ice Futures US,Why:LH Feed down on .[SPSICEL1 .[SPSICEL2,Expose:Y,Cat:Venue,SubCat:LHFeedDown,DPoP:DTC,Sev:Crit,Mkt:Open,Time:2015-10-20 23:06:05,PulseRAG:RGG,V:2	23:06:05 20 Oct 2015	21:06:45 21 Oct 2015	4	ESIR_101260:ServiceView:Ice Futures US:GBE_ReportSituation				
+
+CC1P-DDNCCHE06B	Unexpected value	22:55:02 21 Oct 2015	22:55:40 21 Oct 2015	1	ERDT-_000004:CHE:LHICERDT.exe:GBE_ReportSituation				
+
+UK1P-DDNMCH701A-VC1	vcModPortOutputUtilizationDown - The port output utilization rate has dropped below low watermark (see details)	14:58:14 22 Oct 2015	14:58:14 22 Oct 2015	1	ifIndex: 1016				
+
+TK2P-DDNCCHE06A	Connection Failure	14:33:01 22 Oct 2015	14:33:37 22 Oct 2015	1	DRDT-_000006:CHE:LHOSDRDT.exe:GBE_ReportSituation				
+
+SG1P-DDNMCHE15A	[WatchDogService: STATE_CHANGE] current_state: ENTITY_STANDBY, new_state: ENTITY_LIVE	15:27:58 22 Oct 2015	15:28:34 22 Oct 2015	1	1RDT-_001000:CHE:LHGW1RDT.exe:GBE_ReportSituation				
+
